@@ -73,11 +73,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/toondaey/nestjs-oauth2-server.git"
+    "url": "git+https://github.com/lab3dvlp/nestjs-oauth2-server.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/toondaey/nestjs-oauth2-server/issues"
+    "url": "https://github.com/lab3dvlp/nestjs-oauth2-server/issues"
   },
   "husky": {
     "hooks": {
@@ -86,12 +86,12 @@
     }
   },
   "peerDependencies": {
-    "@nestjs/common": "^8.0.0",
-    "oauth2-server": "3.1.1",
-    "reflect-metadata": "^0.1.12",
-    "rxjs": "^7.0.0"
+    "@nestjs/common": "^10.0.0",
+    "oauth2-server": "^3.1.1",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.8.1"
   },
-  "homepage": "https://github.com/toondaey/nestjs-oauth2-server#readme",
+  "homepage": "https://github.com/lab3dvlp/nestjs-oauth2-server#readme",
   "publishConfig": {
     "access": "public"
   }
